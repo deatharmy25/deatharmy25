@@ -1,16 +1,31 @@
-## Hi there 👋
-
-<!--
-**deatharmy25/deatharmy25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About of me
+```json
+{
+  "name": "Armando"
+  "age": 23,
+  "📍": "🇮🇹",
+  "job": "System Administrator👨🏼‍💻",
+  "socials": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/armandoo_romeoo/",
+    },
+    {
+      "name": "Threads",
+      "url": "https://www.threads.net/@armandoo_romeoo",
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/ArmandoRomeo25",
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/ArmandoRomeo25",
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/armando-romeo-739282214/",
+    },
+  ],
+}
+```
